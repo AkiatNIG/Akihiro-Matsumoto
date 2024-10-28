@@ -11,11 +11,13 @@ Including:
    2-2) Orientation selectivity index (OSI)
    2-3) Motion/Flash preference index (M/F)
    2-4) Speed tuning index
-3) dsets_score_Figure5.mat:
-   3-1) response matrix for 49 groups (DSI, OSI, M/F, Speed tuning, Contrast modulation, Temporal frequency modulation)
+3) dsets_Figure3.mat:
+   3-1) Noise corerlation and distance between ROIs in the same and different groups
 4) dsets_score_Figure5.mat:
-   4-1) feature scores for determined 30 informative groups (DSI, OSI, M/F, Speed tuning, Contrast modulation, Temporal frequency modulation)
+   4-1) response matrix for 49 groups (DSI, OSI, M/F, Speed tuning, Contrast modulation, Temporal frequency modulation)
+5) dsets_score_Figure5.mat:
+   5-1) feature scores for determined 30 informative groups (DSI, OSI, M/F, Speed tuning, Contrast modulation, Temporal frequency modulation)
 
-5) scripts and data
-   5-1) PF mapping. Matlab scripts and demo datasets for projective field (PF) mapping. Details are shown in "README.txt"
-   5-2) R scripts for dot plots moleculary clustering (Figure 4) 
+6) scripts and data
+   6-1) PF mapping. Matlab scripts and demo datasets for projective field (PF) mapping. Details are shown in "README.txt"
+   6-2) R scripts for dot plots moleculary clustering (Figure 4) 
