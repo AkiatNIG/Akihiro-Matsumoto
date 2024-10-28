@@ -1,4 +1,4 @@
-# Akihiro-Matsumoto
+# Diverse GABA signaling in the inner retina enables spatiotemporal coding (Matsumoto et al. 2024)
 
 The datasts for 2P GABA imaging by using iGABASnFR2 (Matsumoto et al. 2024, bioRxiv, https://www.biorxiv.org/content/10.1101/2024.01.09.574952v1). Data files and scripts worked on Matlab.
 Including:
