@@ -17,10 +17,13 @@ Including:
    4-1) response matrix for 49 groups (DSI, OSI, M/F, Speed tuning, Contrast modulation, Temporal frequency modulation)
 5) dsets_FeatureScore.mat:
    5-1) feature scores for determined 30 informative groups (DSI, OSI, M/F, Speed tuning, Contrast modulation, Temporal frequency modulation)
+6) dsets_ContrastModulation.mat:
+   6-1) contrast response modulation and defined contrast sensitivity for 49 groups. 
 
-6) scripts and data
-   6-1) PF mapping. Matlab scripts and demo datasets for projective field (PF) mapping. Details are shown in "README.txt"
-   6-2) R scripts for dot plots moleculary clustering (Figure 4)
+7) scripts and data
+   7-1) PF mapping. Matlab scripts and demo datasets for projective field (PF) mapping. Details are shown in "README.txt"
+   7-2) R scripts for dot plots moleculary clustering (Figure 4)
 
-7) Overview_49groups.xlsx:
-   7-1) Summary of characterized GABA signal groups. Related to Extended Data Table 1
+
+8) Overview_49groups.xlsx:
+   8-1) Summary of characterized GABA signal groups. Related to Extended Data Table 1
