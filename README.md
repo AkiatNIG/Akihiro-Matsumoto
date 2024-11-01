@@ -29,7 +29,8 @@ Including:
 7) scripts and data
    7-1) PF mapping. Matlab scripts and demo datasets for projective field (PF) mapping. Details are shown in "README.txt"
    7-2) R scripts for dot plots moleculary clustering (Figure 4). Meatadata can be obtained from Yan et al (2020, J. Neurosci)
-   7-3) Showing response measures (Figure 1) in datasets (dsets_ResponseMeasures) of individual 49 groups. Details are shown in "README.txt"  
+   7-3) Showing response measures (Figure 1) in datasets (dsets_ResponseMeasures) of individual 49 groups. Details are shown in "README.txt"
+   7-4) Grouping datasets by kmeans. Details are shown in "README.txt"
 
 
 8) Overview_49groups.xlsx:
